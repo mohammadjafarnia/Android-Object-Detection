@@ -31,3 +31,43 @@ This app detects up to **1000 different object classes** from the ImageNet datas
 ---
 
 ## 📂 Project Structure
+app/
+├── java/
+│ └── ... Object detection logic
+├── assets/
+│ └── mobilenet_model.tflite
+└── res/
+└── UI layouts
+
+
+
+---
+
+## 🎯 How It Works
+1. Camera frames are captured in real-time  
+2. Frames are preprocessed and fed into MobileNet TFLite  
+3. Model outputs top object predictions  
+4. Results are drawn on screen with confidence score  
+
+---
+
+## ▶️ How to Run
+1. Clone the project:
+https://github.com/mohammadjafarnia/Android-Object-Detection
+2. Open in Android Studio  
+3. Place the `.tflite` model into `assets/`  
+4. Run on a real device (recommended)
+
+---
+
+## 👨‍💻 Developer
+**Mohammad Hossein Jafarnia**  
+Android Developer | ML Enthusiast  
+
+GitHub:  
+https://github.com/mohammadjafarnia
+
+---
+
+## ⭐️ Support
+If you like this project, consider giving it a star ⭐️
