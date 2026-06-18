@@ -62,7 +62,7 @@ https://github.com/mohammadjafarnia/Android-Object-Detection
 
 ## 👨‍💻 Developer
 **Mohammad Hossein Jafarnia**  
-Android Developer | ML Enthusiast  
+Computer Vision Enthusiast  
 
 GitHub:  
 https://github.com/mohammadjafarnia
